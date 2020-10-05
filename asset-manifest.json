@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/text-generator/static/css/main.f1f763a7.chunk.css",
-    "main.js": "/text-generator/static/js/main.c9cdd2da.chunk.js",
-    "main.js.map": "/text-generator/static/js/main.c9cdd2da.chunk.js.map",
-    "runtime-main.js": "/text-generator/static/js/runtime-main.4bfe4f07.js",
-    "runtime-main.js.map": "/text-generator/static/js/runtime-main.4bfe4f07.js.map",
-    "static/js/2.caa81455.chunk.js": "/text-generator/static/js/2.caa81455.chunk.js",
-    "static/js/2.caa81455.chunk.js.map": "/text-generator/static/js/2.caa81455.chunk.js.map",
-    "index.html": "/text-generator/index.html",
-    "precache-manifest.0a2a876b9093fa913c99c9fb4b43ee61.js": "/text-generator/precache-manifest.0a2a876b9093fa913c99c9fb4b43ee61.js",
-    "service-worker.js": "/text-generator/service-worker.js",
-    "static/css/main.f1f763a7.chunk.css.map": "/text-generator/static/css/main.f1f763a7.chunk.css.map",
-    "static/js/2.caa81455.chunk.js.LICENSE.txt": "/text-generator/static/js/2.caa81455.chunk.js.LICENSE.txt"
+    "main.css": "/bacon-ipsum-generator/static/css/main.f1f763a7.chunk.css",
+    "main.js": "/bacon-ipsum-generator/static/js/main.f02f0429.chunk.js",
+    "main.js.map": "/bacon-ipsum-generator/static/js/main.f02f0429.chunk.js.map",
+    "runtime-main.js": "/bacon-ipsum-generator/static/js/runtime-main.e290cae6.js",
+    "runtime-main.js.map": "/bacon-ipsum-generator/static/js/runtime-main.e290cae6.js.map",
+    "static/js/2.caa81455.chunk.js": "/bacon-ipsum-generator/static/js/2.caa81455.chunk.js",
+    "static/js/2.caa81455.chunk.js.map": "/bacon-ipsum-generator/static/js/2.caa81455.chunk.js.map",
+    "index.html": "/bacon-ipsum-generator/index.html",
+    "precache-manifest.1699e6f2065dc82139f6c3572282bd29.js": "/bacon-ipsum-generator/precache-manifest.1699e6f2065dc82139f6c3572282bd29.js",
+    "service-worker.js": "/bacon-ipsum-generator/service-worker.js",
+    "static/css/main.f1f763a7.chunk.css.map": "/bacon-ipsum-generator/static/css/main.f1f763a7.chunk.css.map",
+    "static/js/2.caa81455.chunk.js.LICENSE.txt": "/bacon-ipsum-generator/static/js/2.caa81455.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4bfe4f07.js",
+    "static/js/runtime-main.e290cae6.js",
     "static/js/2.caa81455.chunk.js",
     "static/css/main.f1f763a7.chunk.css",
-    "static/js/main.c9cdd2da.chunk.js"
+    "static/js/main.f02f0429.chunk.js"
   ]
 }
